@@ -26,7 +26,7 @@ Machine Vision can monitor on itself when the specific task has been started so 
 
  ![Image](https://github.com/santiram/Machine_Vision_Deepstream/blob/main/images/nano.jpg)
 
- This project is Proof of concept of AI vison moitoring can be installed to provide the insigtful information using the Vedio analytics . 
+ This project is Proof of concept of AI vision moitoring can be installed to provide the insigtful information using the Vedio analytics . 
 
 
 ## Deepstream Setup
