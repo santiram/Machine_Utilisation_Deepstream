@@ -7,6 +7,7 @@ Machine Vision can monitor on itself when the specific task has been started so 
 
 # Citations
  AlexeyAB/darknet
+ https://github.com/aj-ames/Hermes-Deepstream
 
 
 # Index 
