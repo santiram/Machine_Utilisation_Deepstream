@@ -27,7 +27,7 @@ __global__ void gpuYoloLayerV3(const float* input, float* output, const uint gri
     if ((x_id >= gridSize) || (y_id >= gridSize) || (z_id >= numBBoxes))
     {
         return;
-    }
+    }  
 
     const int numGridCells = gridSize * gridSize;
     const int bbindex = y_id * gridSize + x_id;

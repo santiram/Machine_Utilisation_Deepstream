@@ -84,6 +84,7 @@ enum PGIE_CLASS {FALME = 0};
 
 enum GIE_UID {FLAME_DETECTOR = 4};
 
+// timer for all the logics 
 int num_sources = 0;
 time_t start_time;
 time_t last_seen_instance;

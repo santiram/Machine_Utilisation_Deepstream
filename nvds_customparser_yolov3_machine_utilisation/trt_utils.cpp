@@ -40,6 +40,7 @@ static void rightTrim(std::string& s)
 {
     s.erase(std::find_if(s.rbegin(), s.rend(), [](int ch) { return !isspace(ch); }).base(), s.end());
 }
+// 
 
 std::string trim(std::string s)
 {

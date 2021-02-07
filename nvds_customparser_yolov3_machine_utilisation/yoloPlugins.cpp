@@ -26,6 +26,7 @@
 #include <iostream>
 #include <memory>
 
+// // 
 namespace {
 template <typename T>
 void write(char*& buffer, const T& val)

@@ -36,7 +36,7 @@ NvDCF:
   # [Data Association] Matching method
   useGlobalMatching: 0   # If true, enable a global matching algorithm (i.e., Hungarian method). Otherwise, a greedy algorithm wll be used.
 
-  # [Data Association] Thresholds in matching scores to be considered as a valid candidate for matching
+  # [Data Association] Thresholds in matching scores to be considered as a valid candidate for matching 
   minMatchingScore4Overall: 0.0   # Min total score
   minMatchingScore4SizeSimilarity: 0.5    # Min bbox size similarity score
   minMatchingScore4Iou: 0.1       # Min IOU score

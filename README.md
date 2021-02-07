@@ -1,7 +1,7 @@
 # Machine_Vision App
 Machine vision systems are a set of integrated components that are designed to use information extracted from digital images to automatically guide about the machine utilisation along with their efficiency of machine , work start time and work end time.
 
-![alt text](https://github.com/[santiram]/[Machine_Vision_Deepstream ]/blob/[main]/images/machine_utilisation_image.png?raw=true)
+![Image](https://github.com/santiram/Machine_Vision_Deepstream/blob/main/images/machine_utilisation_image.png)
 
 Machine Vision can monitor on itself when the specific task has been started so that we can keep a track of our machine efficiency and other aspects.
 
@@ -24,9 +24,9 @@ Machine Vision can monitor on itself when the specific task has been started so 
 
  Machine_Vision is An Intelligent Video Analytics Pipeline powered by Deepstream and NVIDIA Jetson Xavier NX.
 
- ![alt text](https://github.com/[santiram]/[Machine_Vision_Deepstream ]/blob/[main]/nano.jpg?raw=true)
+ ![Image](https://github.com/santiram/Machine_Vision_Deepstream/blob/main/images/nano.jpg)
 
- This project is Proof of concept of AI vison moitoring can be installed to provide the insigtful information using the Vedio analytics . 
+ This project is Proof of concept of AI vision moitoring can be installed to provide the insigtful information using the Vedio analytics . 
 
 
 ## Deepstream Setup
@@ -86,8 +86,9 @@ Machine Vision can monitor on itself when the specific task has been started so 
 
     Next, create a file called inputsources.txt and paste the path of videos or rtsp url.
 
-    file:///home/astr1x/Videos/Wildfire1.mp4
-    rtsp://admin:admin%40123@192.168.1.1:554/stream
+
+    file:///home/sr/Downloads/Plasma cutting steel.mp4
+    file:////home/sr/Downloads/laser_cutting_machine_2.mp4
 
     Now, run the application by running the following command:
 

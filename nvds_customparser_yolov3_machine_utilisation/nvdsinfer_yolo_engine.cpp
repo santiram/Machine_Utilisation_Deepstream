@@ -33,7 +33,7 @@ static bool getYoloNetworkInfo (NetworkInfo &networkInfo, const NvDsInferContext
 {
     std::string yoloCfg = initParams->customNetworkConfigFilePath;
     std::string yoloType;
-
+    // here we get the data to transform las 
     std::transform (yoloCfg.begin(), yoloCfg.end(), yoloCfg.begin(), [] (uint8_t c) {
         return std::tolower (c);});
 
