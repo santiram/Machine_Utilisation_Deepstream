@@ -21,7 +21,8 @@
 # Optional properties in secondary mode:
 #   operate-on-gie-id(Default=0), operate-on-class-ids(Defaults to all classes),
 #   input-object-min-width, input-object-min-height, input-object-max-width,
-#   input-object-max-height
+#   input-object-max-height  
+#
 #
 # Following properties are always recommended:
 #   batch-size(Default=1)

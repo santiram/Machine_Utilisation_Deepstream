@@ -55,5 +55,6 @@ yolov3:
 	cd nvds_customparser_yolov3_machine_utilisation && $(MAKE)
 
 clean:
-	rm -rf $(OBJS) $(APP)
 	cd nvds_customparser_yolov3_machine_utilisation && $(MAKE) clean
+	rm -rf $(OBJS) $(APP)
+	

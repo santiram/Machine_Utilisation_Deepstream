@@ -22,6 +22,8 @@ namespace Machine_utilisation {
     GstElement *pipeline = (GstElement *)pipe;
     GstElement *streammux = (GstElement *)mux;
 
+    // here we read the input files las 
+
     std::ifstream infile(SOURCE_PATH);
     std::string source;
 
